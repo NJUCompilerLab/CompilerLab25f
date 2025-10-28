@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Python virtual envs
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Build artifacts (none expected for this docs repo, but keep generic)
+dist/
+build/
+.tmp/
